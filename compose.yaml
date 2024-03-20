@@ -1,0 +1,10 @@
+# FilwSwitchBot - Github
+# Copyright (C) 2024 Akash Pattnaik
+# This file is a part of < https://github.com/iAkashPattnaik/SwitchFileBot/ >
+# PLease read the GNU General Public License v3.0 in <https://www.github.com/iAkashPattnaik/SwitchFileBot/blob/main/LICENSE/>.
+
+version: "3.3"
+
+services:
+  app:
+    build: .
